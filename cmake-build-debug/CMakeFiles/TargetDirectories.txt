@@ -1,0 +1,4 @@
+C:/Users/Gubin Zhao/OneDrive/桌面/COMP282/cmake-build-debug/CMakeFiles/COMP282.dir
+C:/Users/Gubin Zhao/OneDrive/桌面/COMP282/cmake-build-debug/CMakeFiles/COMP282lib.dir
+C:/Users/Gubin Zhao/OneDrive/桌面/COMP282/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Gubin Zhao/OneDrive/桌面/COMP282/cmake-build-debug/CMakeFiles/rebuild_cache.dir
